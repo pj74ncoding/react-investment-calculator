@@ -1,0 +1,52 @@
+.form-container {
+  display: flex;
+  height: auto;
+  margin: auto;
+  width: 70vw;
+
+  align-items: center;
+  justify-content: space-between;
+}
+
+.input-container {
+  width: 40%;
+  height: auto;
+}
+.input-container input {
+  border: 1px solid grey;
+  width: 70%;
+}
+
+.input-container input:focus {
+  background-color: rgba(0, 0, 255, 0.126);
+}
+
+.currency-button,
+.reset-button {
+  border: 1px solid black;
+  background-color: rgba(128, 255, 0, 0.185);
+  border-radius: 6px;
+  color: black;
+  padding: 5px 10px;
+  font-weight: bold;
+  width: 20%;
+  margin-left: 10px;
+}
+
+.currency-button:hover {
+  background-color: rgba(137, 43, 226, 0.139);
+  box-shadow: 2px 2px 2px blue;
+  color: black;
+  cursor: pointer;
+}
+
+.reset-button {
+  width: 170px;
+}
+
+.reset-button:hover {
+  background-color: rgba(137, 43, 226, 0.139);
+  box-shadow: 2px 2px 2px blue;
+  color: black;
+  cursor: pointer;
+}

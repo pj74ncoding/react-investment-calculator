@@ -1,0 +1,77 @@
+.calculating-message {
+  width: 70vw;
+  border: 2px solid grey;
+  border-radius: 6px;
+  height: 200px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(128, 255, 0, 0.185);
+}
+
+.calculating-message > p {
+  font-weight: bold;
+  font-size: large;
+}
+
+.table-container {
+  height: auto;
+  width: 70vw;
+  margin: auto;
+  border: 2px solid rgb(128, 255, 0, 0.185);
+  margin-top: 20px;
+}
+
+.table-heading-row th {
+  border: 2px solid rgb(128, 255, 0, 0.185);
+}
+
+.mapped-table-rows td {
+  text-align: center;
+  border-left: 2px solid rgb(128, 255, 0, 0.185);
+  background-color: rgba(128, 255, 0, 0.044);
+}
+
+.summary-mapped-table-rows td {
+  border-top: 2px solid rgb(128, 255, 0, 0.185);
+  border-left: 2px solid rgb(128, 255, 0, 0.185);
+  text-align: center;
+}
+
+.summary-mapped-table-rows td:nth-child(2),
+.summary-mapped-table-rows td:nth-child(1) {
+  background-color: rgb(128, 255, 0, 0.185);
+}
+.summary-mapped-table-rows th {
+  border-left: 2px solid rgb(128, 255, 0, 0.185);
+  border-right: 2px solid rgb(128, 255, 0, 0.185);
+  border-top: 2px solid rgb(128, 255, 0, 0.185);
+  text-align: center;
+}
+.charts {
+  display: flex;
+  width: 100%;
+  height: auto;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  padding: 10px 0;
+}
+
+.Month-year-button-container {
+  height: auto;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  width: 20vw;
+}
+
+.Month-year-button {
+  background-color: rgb(128, 255, 0, 0.185);
+  padding: 5px;
+  border-radius: 5px 10px;
+  cursor: pointer;
+  border: 1px solid black;
+  font-weight: bold;
+}
