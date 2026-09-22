@@ -1,7 +1,7 @@
 import { useCallback, useEffect, useState } from "react";
 import { Header } from "./header.jsx";
 import UserInput from "./userInput.jsx";
-import OutputData from "./Outputdata.jsx";
+import OutputData from "./outputdata.jsx";
 import {
   gbpCalculateInvestmentResults,
   usdCalculateInvestmentResults,
