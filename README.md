@@ -68,6 +68,8 @@ To build a banking application that displays the users investment returns based 
 
 Client (Frontend)
 
+Folder Structure Example:
+
 ```
 
 2.
@@ -104,7 +106,6 @@ Frontend:
 
 ```bash
 cd react-investment-calculator
-
 npm install
 ```
 
