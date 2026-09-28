@@ -26,7 +26,7 @@ Live Demo: https://react-investment-calculator-nine.vercel.app/
 
 ### Motivation
 
-To build a banking application that displays the users investment returns based the duration and expected returns percentage.
+To build a banking application that displays the users investment returns based on the duration and expected returns percentage.
 
 ### Learning Outcomes
 
