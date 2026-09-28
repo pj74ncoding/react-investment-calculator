@@ -40,7 +40,7 @@ To build a banking application that displays the users investment returns based 
 - Input fields for the user to enter their requirements to be calculated
 - A reset button to return the table to the original array
 - Buttons to display the investment results in Euros, Dollars or Pounds
-- A calculating results message displayed
+- A calculating results is message displayed
 - A table to display the investment figures and results each year of the investment
 - A button to display the results in the table by the year or month
 - A line chart to display the investment growth over the yearly investment duration
