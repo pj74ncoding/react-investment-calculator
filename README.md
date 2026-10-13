@@ -14,7 +14,6 @@ Live Demo: https://react-investment-calculator-nine.vercel.app/
 - [Architecture](#architecture)
 - [Installation](#installation)
 - [Project Features](#usage)
-- [Screenshots](#screenshots)
 - [Deployment](#deployment)
 - [Future Improvements](#future-improvements)
 - [Credits](#credits)
@@ -107,25 +106,16 @@ cd  react-investment-calculator
 Frontend:
 
 ```bash
-cd react-investment-calculator
 npm install
 ```
 
-### Run Development Servers
+### Run Application
 
 Frontend:
 
 ```bash
 npm start
 ```
-
-Add inside README:
-
-```markdown
-![Home Page](assets/home.png)
-![Dashboard](assets/dashboard.png)
-```
-
 ---
 
 ## Future Improvements
