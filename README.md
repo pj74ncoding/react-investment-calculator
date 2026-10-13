@@ -32,7 +32,7 @@ To build a banking application that displays the users investment returns based 
 ### Learning Outcomes
 
 - learnt how to use chart js and integrate the charts into the existing code
-- learnt about clearTimeOut() to remove the setTimeOut() function when the
+- learnt about clearTimeout() to remove the setTimeout() function when the
   calculating results message is displayed
 - Learnt to adapt and integrate code into my original code
 
